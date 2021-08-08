@@ -1,0 +1,2 @@
+# twoat
+AminaCoin
